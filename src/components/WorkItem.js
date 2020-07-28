@@ -2,9 +2,14 @@ import React from "react";
 
 const WorkItem = ({ work }) => {
   return (
-    <div className="pt-2 pb-2">
+    <div className="pt-1 pb-3">
       <h4>
-        <a href={work.url} target="_blank" rel="noopener noreferrer">
+        <a
+          href={work.url}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="worktitle"
+        >
           {work.company}
         </a>
       </h4>

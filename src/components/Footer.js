@@ -4,7 +4,10 @@ class Footer extends Component {
   render() {
     return (
       <div align="center">
-        <p>© 2020</p>
+        <p>
+          Made with React <br />
+          Kelvin Koon © 2020
+        </p>
       </div>
     );
   }

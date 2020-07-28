@@ -3,21 +3,27 @@
     "name": "UBC Thunderbots",
     "github": "https://github.com/UBC-Thunderbots/Software",
     "link": "https://apsc.ubc.ca/news/2019/07/ubc-thunderbots-triumph-at-robocup-2019",
+    "demo_type": "article",
     "date": "Jun 2018 - Present",
-    "description": "Autonomous soccer playing robots. SSL Div B Winners at RoboCup 2019."
+    "description1": "Open-source autonomous soccer playing robots.",
+    "description2": "SSL Div. B Winners at RoboCup 2019."
   },
   {
     "name": "babiri.net",
     "github": "https://github.com/kelvinkoon/babiri.net",
     "link": "https://www.babiri.net/#/",
+    "demo_type": "demo",
     "date": "Jan 2020 - Present",
-    "description": "Competitive Pokémon stats. Over 70,000 users since launch."
+    "description1": "Competitive Pokémon stats app.",
+    "description2": "Over 70,000 users since launch."
   },
   {
     "name": "Kipos Smart Gardener",
     "github": "https://github.com/alessnarciso/smartgardener",
     "link": "https://drive.google.com/file/d/1JXmx4cI00vqmM4PAp0anILhqFLdqzN4Y/view",
+    "demo_type": "slideset",
     "date": "Jul 2020",
-    "description": "IoT garden telemetry system. Final project for ELEC391."
+    "description1": "IoT garden telemetry system.",
+    "description2": "Course project for ELEC391."
   }
 ]

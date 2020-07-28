@@ -1,6 +1,6 @@
 @media (min-width: 768px) {
   .container {
-    max-width: 40%;
+    max-width: 50%;
   }
 }
 
@@ -25,8 +25,7 @@ h2 {
 }
 
 h4 {
-  font-size: 2.1em;
-  font-family: "Tinos", serif;
+  font-size: 2.05em;
   line-height: 1.2em;
   display: block;
   margin-top: 0;
@@ -59,8 +58,8 @@ p {
 }
 
 .title {
-  font-size: 1.1em;
-  letter-spacing: 0.12em;
+  font-size: 1.15em;
+  letter-spacing: 0.13em;
   font-family: "Lato", sans-serif;
   color: #134db6;
   font-weight: bold;
@@ -73,4 +72,10 @@ p {
 
 .external {
   text-decoration: underline;
+}
+
+.worktitle {
+  color: #212529;
+  background-color: transparent;
+  text-decoration: none;
 }
