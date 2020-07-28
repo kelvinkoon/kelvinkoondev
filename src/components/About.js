@@ -11,9 +11,9 @@ class About extends Component {
             at UBC NetSysLab. Previously, I was an intern at Huawei and Netgear.
           </p>
           <p>
-            I'm experienced with computer networking, security, and distributed
-            computing. I also love working with robotics through working on the
-            student team, UBC Thunderbots.
+            I'm experienced with computer networking and security, and am
+            learning more about distributed computing. I also love working with
+            robotics through working on the student team, UBC Thunderbots.
           </p>
           <p>
             In my free time, I enjoy photography, figure skating, and
