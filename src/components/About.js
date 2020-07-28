@@ -6,30 +6,59 @@ class About extends Component {
       <div>
         <div className="left">
           <p>
-            I am a 4th year ECE student at the University of British Columbia.
-            Currently, I am an undergraduate research assistant at UBC
-            NetSysLab. Previously, I was an intern at Huawei and Netgear.
+            I am a 4th year Electrical Engineering student at the University of
+            British Columbia. I am currently an Undergraduate Research Assistant
+            at UBC NetSysLab. Previously, I was an intern at Huawei and Netgear.
           </p>
           <p>
-            I'm experienced with parallel computing, computer networking, and
-            security. In addition, I enjoy working with robotics and open-source
-            through contributing to UBC Thunderbots.
+            I'm experienced with computer networking, security, and distributed
+            computing. In addition, I love working with robotics through
+            contributing to UBC Thunderbots.
           </p>
           <p>
             In my free time, I enjoy photography, figure skating, and
-            competitive gaming. I also enjoy volunteering with STEM outreach
-            programs to provide greater accessibility and interest to the next
-            generation.
+            competitive gaming. I'm always looking for opportunities to
+            volunteer with STEM outreach programs.
           </p>
         </div>
         <div className="right">
-          <p>About Me</p>
+          <p className="title">About Me</p>
+          <div className="external">
+            <p>
+              <a
+                href="https://drive.google.com/file/d/12ChUf7j2rYTNrbZdDzAE9C3ZLugc_maz/view?usp=sharing"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                resume
+              </a>
+            </p>
+            <p>
+              <a
+                href="https://github.com/kelvinkoon"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                github
+              </a>
+            </p>
+            <p>
+              {" "}
+              <a
+                href="https://www.linkedin.com/in/kelvinkoon/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                linkedIn
+              </a>
+            </p>
+          </div>
+          <br />
+          <p className="title">Education</p>
           <p>
-            I'm experienced in computer networking software development and
-            security R&D. I'm experienced in computer networking software
-            development and security R&D. I'm experienced in computer networking
-            software development and security R&D. I'm experienced in computer
-            networking software development and security R&D.{" "}
+            BASc. Electrical Engineering at UBC
+            <br />
+            <span className="label">Anticipated Graduation: May 2021</span>
           </p>
         </div>
       </div>

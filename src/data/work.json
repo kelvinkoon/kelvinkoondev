@@ -1,0 +1,23 @@
+[
+  {
+    "company": "UBC NetSysLab",
+    "url": "http://netsyslab.ece.ubc.ca/wiki/index.php/Networked_Systems_Laboratory",
+    "position": "Undergraduate Research Assistant",
+    "date": "Aug 2020 - Present",
+    "description": "Benchmarking NVIDIA Jetson Xavier cluster performance"
+  },
+  {
+    "company": "Huawei Technologies",
+    "url": "https://www.huawei.com/ca/",
+    "position": "Assistant Engineer Intern",
+    "date": "Jan 2020 - Aug 2020",
+    "description": "Mobile Security Lab R&D Team"
+  },
+  {
+    "company": "Netgear",
+    "url": "https://www.netgear.com/",
+    "position": "Software Developer Co-op",
+    "date": "Aug 2018 - May 2019",
+    "description": "Aircard Team"
+  }
+]
