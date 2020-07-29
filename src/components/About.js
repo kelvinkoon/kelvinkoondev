@@ -56,7 +56,11 @@ class About extends Component {
           <br />
           <p className="title">Education</p>
           <p>
-            <b>BASc. Electrical Engineering at UBC</b>
+            <b>
+              BASc. Electrical Engineering
+              <br />
+              University of British Columbia
+            </b>
             <br />
             <span className="label">Anticipated Graduation: May 2021</span>
           </p>
