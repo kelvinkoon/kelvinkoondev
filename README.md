@@ -4,7 +4,7 @@ My minimalist portfolio website.
 
 ## Demo
 
-The live demo can be found [here](https://kelvinkoon.dev)
+The live demo can be found [here](https://www.kelvinkoon.dev)
 
 ## Built with
 
