@@ -12,14 +12,13 @@ class About extends Component {
           </p>
           <p>
             I'm interested in computer networking, security, and distributed
-            systems. I also work with robotics through the student design team,
-            UBC Thunderbots.
+            systems. I also work with robotics through the student team, UBC
+            Thunderbots.
           </p>
           <p>
             In my free time, I enjoy photography, figure skating, and
             competitive gaming as well as volunteering with STEM outreach
-            programs. I'm always looking for new places to shoot and new people
-            to meet.
+            programs.
           </p>
         </div>
         <div className="right">
