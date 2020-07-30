@@ -17,7 +17,7 @@ class About extends Component {
           </p>
           <p>
             In my free time, I enjoy photography, figure skating, and
-            competitive gaming as well as volunteering with STEM outreach
+            competitive gaming, as well as volunteering with STEM outreach
             programs.
           </p>
         </div>
