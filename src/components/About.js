@@ -26,7 +26,7 @@ class About extends Component {
           <div className="external">
             <p>
               <a
-                href="https://drive.google.com/file/d/1Xm-LCOERGEvYOMwA5jnn3_Fg60858jI7/view?usp=sharing"
+                href="https://drive.google.com/file/d/1s_zd59cHpm80pijAP8cyk7qYbVrMhSd5/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
               >
