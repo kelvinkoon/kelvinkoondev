@@ -18,7 +18,7 @@ class About extends Component {
           <p>
             In my free time, I enjoy photography, figure skating, and
             competitive gaming. I also help run the ECESS mentorship 
-			program for 2nd year ECE students.
+			program.
           </p>
         </div>
         <div className="right">
