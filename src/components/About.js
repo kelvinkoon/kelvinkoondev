@@ -7,8 +7,9 @@ class About extends Component {
         <div className="left">
           <p>
             I am a 4th year Electrical Engineering student at the University of
-            British Columbia. I am currently an Undergraduate Research Assistant
-            at UBC NetSysLab. Previously, I was an intern at Huawei and Netgear.
+            British Columbia. I am an Undergraduate Research Assistant at UBC
+            NetSysLab, as well as an incoming Software Development Engineer at
+            Amazon. Previously, I was an intern at Huawei and Netgear.
           </p>
           <p>
             I'm interested in computer networking, security, and distributed
